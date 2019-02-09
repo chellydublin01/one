@@ -1,1 +1,2 @@
 First git activity.
+Second sentence.
